@@ -1,8 +1,8 @@
 # Add your variables here
-first_number = ""
-second_number = ""
+first_number = 5
+second_number = 5
   
 def addition
   
-  sum = first_number.to_i ++ second_number.to_i
+  sum = first_number ++ second_number
 end
