@@ -4,5 +4,5 @@ second_number = ""
   
 def addition
   
-  sum = first_number.to ++ second_number
+  sum = first_number.to_i ++ second_number.to_i
 end
