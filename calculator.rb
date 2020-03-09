@@ -2,7 +2,4 @@
 first_number = 5
 second_number = 5
   
-def addition
-  
-  sum = first_number ++ second_number
-end
+sum = first_number ++ second_number
